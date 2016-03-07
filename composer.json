@@ -1,0 +1,10 @@
+{
+    "name": "harrypotter/composer_test",
+    "authors": [
+        {
+            "name": "Abc",
+            "email": "xyz@example.com"
+        }
+    ],
+    "require": {}
+}
